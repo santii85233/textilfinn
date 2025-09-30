@@ -379,7 +379,7 @@ function App() {
                   > 
                     Enviar Solicitud 
                     <ArrowRight className="w-5 h-5" /> 
-                  </button> 
+                  </button>  
                 </form> 
               </div> 
             </div> 
