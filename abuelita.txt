@@ -1,0 +1,7 @@
+Algoritmo abuelita
+	definir temperaturaF, temperaturaC, cambio Como Entero
+	Escribir "Ingrese su temperatura en °Fahrenheit:"
+	Leer temperaturaF
+	temperaturaC = (temperaturaF-32)/1.8
+	Escribir "Su temperatura en grados Celsius es de:" temperaturaC
+FinAlgoritmo
