@@ -1,0 +1,10 @@
+Algoritmo Salud
+	definir pesoBebe, mesesBebe Como Entero
+	definir dosisVacuna como Real
+	Escribir "Ingrese el peso del bebe en kg:"
+	leer pesoBebe
+	Escribir "Ingrese los meses que tiene el bebe:"
+	leer mesesBebe
+	dosisVacuna=((pesoBebe +10)/(mesesBebe *10)) *8
+	Escribir "La dosis que se le debe aplicar al bebe es de: " dosisVacuna "ml"
+FinAlgoritmo
