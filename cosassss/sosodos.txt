@@ -1,0 +1,16 @@
+Como se crea desde 0 los apuntadores en c++ y en python
+1003
+  heap and stack
+
+
+funciones estan compuestas por 
+
+1.Visibilidad
+  2.Valor de retorno
+3.Nombre
+  4.Parametro
+
+  funcion-metodo:
+  1  2  3(4):
+  metodos mas usados para referencias de python
+    
